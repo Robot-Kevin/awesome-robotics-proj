@@ -1,12 +1,6 @@
-# Awesome-Embodied-Robotics
+# Awesome-Robotics-Project
 
-具身智能(Embodied AI / VLA)领域优秀论文、Tech Report 与代码链接汇总。
-重点整理 **[Physical Intelligence](https://www.pi.website/)**、**[NVIDIA](https://developer.nvidia.com/isaac/gr00t)**、**[Google DeepMind](https://deepmind.google/models/gemini-robotics/)**、**[Figure](https://www.figure.ai/)**、**[Tesla](https://www.tesla.com/AI)**、**[Generalist](https://generalistai.com/)**、**[Qwen (Alibaba)](https://github.com/QwenLM)**、**[字节跳动 ByteDance](https://arxiv.org/abs/2410.06158)**、**[智元机器人 AgiBot](https://agibot-world.com)**、**[灵初智能 PsiBot](https://github.com/Psi-Robot)**、**[自变量机器人 X Square](https://x2robot.com)**、**[宇树 Unitree](https://github.com/unitreerobotics)** 等团队,并附社区经典开源工作。
-
-> 链接图例:[📄 Paper] 论文 ｜ [📝 Blog] 技术博客 ｜ [🌍 Website] 项目主页 ｜ [💻 Code] 代码 ｜ [🤗 Model] 模型 ｜ [📊 Dataset] 数据集
-> 更新于 2026-07。
-
----
+A selection of robotics learning materials that I’ve personally read, used, and found worthwhile.
 
 # Physical Intelligence (π 系列)
 
@@ -198,8 +192,4 @@ ByteDance Research / Seed 的视频生成预训练 + 机器人操作工作。
 
 ---
 
-## 说明
-- 各团队博客随版本迭代持续更新,建议以官方 Blog / GitHub 最新 release 为准。
-- 社区仓库以 GitHub star 数(约 >800)为收录参考,星标为近似值,请以仓库主页实时数据为准。
-- 格式参考同目录 `template.md`(*[A Survey on VLA Models: An Action Tokenization Perspective](https://arxiv.org/abs/2507.01925)*)。
-- 欢迎补充其他团队(1X、Skild、Galaxea、Sunday Robotics 等)。
+
